@@ -1,8 +1,7 @@
-package com.example.pune;
+package com.example.kondwa-pune;
 
-public class science
-{
-    public static void science(String[] args) {
+class HelloWorld {
+    public static void Main(String[] args) {
         System.out.println("Hello, World!");
     }
 }

@@ -1,1 +1,1 @@
-# kondwa
+# osmanabad
